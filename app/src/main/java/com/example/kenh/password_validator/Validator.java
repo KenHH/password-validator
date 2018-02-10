@@ -1,3 +1,5 @@
+package com.example.kenh.password_validator;
+
 /**
  * Created by Ken H on 2018-02-09.
  */
